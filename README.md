@@ -149,10 +149,10 @@ Repository: Coming Soon
 ## 🤝 Connect with Me
 
 * GitHub: [github.com/shadianoormou](https://github.com/shadianoormou)
-* LinkedIn: - [linkedin.com/in/shadia-noor-mou](https://www.linkedin.com/in/shadia-noor-mou)
+* LinkedIn: [linkedin.com/in/shadia-noor-mou](https://www.linkedin.com/in/shadia-noor-mou)
 * Portfolio: Coming Soon
 * Email: [shadianoormou.cse@gmail.com](mailto:shadianoormou.cse@gmail.com)
-
+* LeetCode: [leetcode.com/u/shadianoormou](https://leetcode.com/u/shadianoormou/)
 ---
 
 ### Thanks for visiting my profile! 😊
