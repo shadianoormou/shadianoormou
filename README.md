@@ -149,7 +149,7 @@ Repository: Coming Soon
 ## 🤝 Connect with Me
 
 * GitHub: [github.com/shadianoormou](https://github.com/shadianoormou)
-* LinkedIn: Coming Soon
+* LinkedIn: - [linkedin.com/in/shadia-noor-mou](https://www.linkedin.com/in/shadia-noor-mou)
 * Portfolio: Coming Soon
 * Email: [shadianoormou.cse@gmail.com](mailto:shadianoormou.cse@gmail.com)
 
